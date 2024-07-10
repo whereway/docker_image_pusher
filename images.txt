@@ -2,6 +2,6 @@ nginx
 #支持私库
 olbat/cupsd:latest
 ydkn/cups:latest
-easysoft/zentao:17.8
+easysoft/zentao:18.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
