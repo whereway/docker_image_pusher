@@ -2,6 +2,6 @@ nginx
 #支持私库
 olbat/cupsd:latest
 ydkn/cups:latest
-easysoft/quickon-zentao:17.8-20221205
+idoop/zentao:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
